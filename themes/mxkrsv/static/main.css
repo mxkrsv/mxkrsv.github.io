@@ -1,0 +1,35 @@
+html {
+	background: #282828;
+	color: #fbf1c7;
+	font-size: 12pt;
+	font-family: monospace;
+}
+
+a {
+	color: #83a598;
+}
+
+a:visited {
+	color: #458588;
+}
+
+div {
+	max-width: 900px;
+	margin: 0 auto;
+}
+
+code, pre {
+	color: #ebdbb2;
+	background: #1d2021;
+}
+
+nav {
+	text-align: center;
+	font-size: 1.2rem;
+}
+
+footer {
+	margin-top: 2rem;
+	text-align: center;
+	font-size: .8rem;
+}

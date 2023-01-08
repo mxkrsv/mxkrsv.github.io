@@ -1,0 +1,11 @@
+baseURL = 'https://mxkrsv.github.io/'
+languageCode = 'en-us'
+title = '~mxkrsv'
+theme = 'mxkrsv'
+summaryLength = 40
+sectionPagesMenu = "main"
+
+[params]
+author = 'Maxim Karasev'
+nick = '~mxkrsv'
+license = 'CC BY-SA 4.0'

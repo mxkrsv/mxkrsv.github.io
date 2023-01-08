@@ -1,0 +1,12 @@
+<header>
+	<nav>
+		<p>
+			{{ if not .IsHome }}
+			<a href="/" title="Home">Home</a>
+			{{ end }}
+			{{ range .Site.Menus.main }}
+			<a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+			{{ end }}
+		</p>
+	</nav>
+</header>
