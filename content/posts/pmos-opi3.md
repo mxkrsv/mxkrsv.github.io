@@ -5,7 +5,9 @@ tags: ["linux", "alpine", "postmarketos"]
 ---
 
 What can I say after debugging the kernel and the bootloader for several days?
-Nothing other than Allwinner CPUs are shit with shitty mainline support.
+Nothing other than Allwinner CPUs are shit with shitty
+[mainline](https://en.wikipedia.org/wiki/Upstream_(software_development))
+support.
 
 But yet, it kinda works.
 
