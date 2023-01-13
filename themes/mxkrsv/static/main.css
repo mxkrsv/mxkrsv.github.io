@@ -35,6 +35,10 @@ code, pre {
 	background: #1d2021;
 }
 
+pre {
+	overflow: scroll;
+}
+
 nav {
 	text-align: center;
 	font-size: 1.2rem;
