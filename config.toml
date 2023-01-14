@@ -9,3 +9,8 @@ sectionPagesMenu = "main"
 author = 'Maxim Karasev'
 nick = '~mxkrsv'
 license = 'CC BY-SA 4.0'
+
+[markup]
+[markup.highlight]
+noClasses=false # Use customized stylesheet
+tabWidth = 8
