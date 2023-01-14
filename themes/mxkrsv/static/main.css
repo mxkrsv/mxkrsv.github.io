@@ -10,6 +10,14 @@ html {
 	background-color: #fabd2f;
 }
 
+body {
+	line-height: 1.4;
+}
+
+h1, h2, h3 {
+	line-height: 1.2;
+}
+
 a {
 	color: #83a598;
 }
