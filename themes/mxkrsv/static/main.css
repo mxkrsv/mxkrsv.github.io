@@ -74,6 +74,24 @@ nav {
 	font-size: 1.2rem;
 }
 
+a.nav-item {
+	color: #8ec07c;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a.nav-item.active {
+	color: #689d6a;
+}
+
+a.nav-item:hover {
+	text-decoration: wavy underline;
+}
+
+a.nav-item:active {
+	background: #fbf1c7;
+}
+
 nav#TableOfContents {
 	text-align: left;
 	font-size: .9rem;
