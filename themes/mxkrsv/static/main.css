@@ -66,6 +66,12 @@ nav {
 	font-size: 1.2rem;
 }
 
+nav#TableOfContents {
+	text-align: left;
+	font-size: .9rem;
+	margin-bottom: 2rem;
+}
+
 footer {
 	margin-top: 2rem;
 	text-align: center;
