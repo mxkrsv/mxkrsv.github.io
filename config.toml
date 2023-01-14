@@ -14,3 +14,11 @@ license = 'CC BY-SA 4.0'
 [markup.highlight]
 noClasses=false # Use customized stylesheet
 tabWidth = 8
+
+[menu]
+[[menu.main]]
+identifier = 'tags'
+name = 'Tags'
+title = 'Tags'
+pageref = '/tags'
+weight = 1 # Make it appear first
