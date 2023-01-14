@@ -61,7 +61,11 @@ pre {
 	overflow: auto;
 }
 
-pre:focus, code:hover {
+pre:hover, code:hover {
+	outline: 2px solid #7c6f64;
+}
+
+pre:focus {
 	outline: 2px solid #8ec07c;
 }
 
