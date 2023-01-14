@@ -26,6 +26,14 @@ a:visited {
 	color: #458588;
 }
 
+a:hover {
+	text-decoration: none;
+}
+
+a:active {
+	background: #ebdbb2;
+}
+
 h1 {
 	font-size: 2rem;
 }
