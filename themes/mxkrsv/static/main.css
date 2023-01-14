@@ -5,6 +5,11 @@ html {
 	font-family: monospace;
 }
 
+::selection {
+	color: #282828;
+	background-color: #fabd2f;
+}
+
 a {
 	color: #83a598;
 }
