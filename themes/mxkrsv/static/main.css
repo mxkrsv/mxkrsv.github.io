@@ -46,10 +46,19 @@ div {
 code, pre {
 	color: #ebdbb2;
 	background: #1d2021;
+	outline: 1px solid #504945;
+}
+
+pre code {
+	outline: none;
 }
 
 pre {
 	overflow: auto;
+}
+
+pre:focus, code:hover {
+	outline: 2px solid #8ec07c;
 }
 
 nav {
