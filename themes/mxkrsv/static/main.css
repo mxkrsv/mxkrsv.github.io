@@ -49,7 +49,7 @@ code, pre {
 }
 
 pre {
-	overflow: scroll;
+	overflow: auto;
 }
 
 nav {
