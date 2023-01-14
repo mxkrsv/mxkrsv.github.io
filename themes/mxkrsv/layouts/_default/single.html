@@ -1,6 +1,14 @@
 {{ define "main" }}
 <section id="main">
 	<h1 id="title">{{ .Title }}</h1>
+	{{ with .TableOfContents }}
+		{{ if ne . "<nav id=\"TableOfContents\"></nav>" }}
+			<aside id="toc">
+				Table of contents:
+				{{ . }}
+			</aside>
+		{{ end }}
+	{{ end }}
 	<div>
 		<article id="content">
 			 {{ .Content }}
