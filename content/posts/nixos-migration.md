@@ -2,7 +2,6 @@
 title: "How I accidentally migrated my desktop to NixOS"
 date: 2023-06-22T01:31:35+03:00
 tags: ["linux", "nixos", "alpine"]
-draft: true
 ---
 
 I have been using Alpine Linux for about a year or more.
