@@ -1,13 +1,14 @@
 ---
-title: "Hi there~"
+title: "Hello."
 date: 2023-01-07T22:31:18+03:00
 ---
 
-You came over my personal site.
+This is my personal site.
 
-I'm a first-year university student mostly intrested in cybersecurity,
-programming and Linux/Unix. Also a FOSS enthusiast, Alpine Linux packages
-maintainer, etc.
+I'm Maxim Karasev, a cybersecurity university student and system software programmer.
+
+Aside from that, I'm also an Open-Source and Linux/Unix enthusiast.
+Anyway, my posts should pretty much represent my interests.
 
 You can find me on:
 - github: [@mxkrsv](https://github.com/mxkrsv)
